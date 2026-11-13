@@ -1,0 +1,35 @@
+GHOST CENTRAL SYSTEM – Version 2.1
+
+START:
+1. ZIP-Datei entpacken.
+2. Den Ordner "GhostCentralSystem" öffnen.
+3. Auf "index.html" doppelklicken.
+4. Die App öffnet sich in deinem Browser.
+
+NEU IN VERSION 2.1:
+- Fehler-Analyse: Bei jedem Fehler gibt es den Button "Analyse". In der
+  Befehlspalette analysiert "? Fehlertext" einen eingefügten Fehler sofort.
+  Die Regeln laufen offline und decken häufige GMod-, DarkRP- und FiveM-Fehler ab.
+- Monatskalender auf der Seite Termine (Termine, fällige Aufgaben, Streams)
+- Fokus-Timer (25 Minuten) oben rechts, mit Countdown im Browser-Tab
+- Ein verstecktes Geheimnis wartet auf dich
+
+AUS VERSION 2.0:
+- Startsequenz und animierter Netzwerk-Hintergrund
+- Befehlspalette: Strg+K (oder /) drücken. Dort suchen, Seiten öffnen
+  oder mit "+ Text" sofort eine Aufgabe, Notiz oder einen Fehler anlegen.
+- Aufgaben als Kanban-Board (per Drag & Drop oder mit den Pfeilen verschieben)
+- Projekt-Fortschritt per Regler
+- Dashboard mit Fortschrittsring, Server-Status und Aktivität der letzten 7 Tage
+- Klick auf das Status-Label eines Eintrags wechselt den Status
+- Gelöschtes lässt sich direkt per "Rückgängig" zurückholen
+- 5 Farbschemas unter Einstellungen
+- Tastenkürzel: Alt+1 bis Alt+9 wechseln die Seiten
+
+DEINE DATEN:
+Die App funktioniert offline und speichert Einträge lokal in diesem Browser.
+Einträge aus Version 1.0 werden automatisch übernommen, wenn du denselben
+Browser nutzt. Lade vor dem Umstieg trotzdem ein Backup herunter
+(Einstellungen > Backup herunterladen) und importiere es bei Bedarf wieder.
+Wichtig: Browserdaten nicht löschen, wenn du deine Einträge behalten möchtest.
+Diese Version steuert noch keine externen Server direkt.
